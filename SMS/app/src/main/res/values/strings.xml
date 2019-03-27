@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SMS</string>
+    <string name="nameerror">Enter Name</string>
+    <string name="emailerror">Enter Correct Email</string>
+    <string name="passerror">Enter password in min 8 char include mixed symbols</string>
+    <string name="conpasserror">Password do not match</string>
+</resources>
